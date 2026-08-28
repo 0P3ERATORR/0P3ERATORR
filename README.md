@@ -1,7 +1,7 @@
 # 🛡️ Glory | Junior SOC Analyst (In Training)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gloryola)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](YOUR_ACTUAL_TRYHACKME_URL)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Q1ckyBoss)
 
 📧 **Email:** gosecop@proton.me
 
