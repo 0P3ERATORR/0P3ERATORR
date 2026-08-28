@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gloryola)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Q1ckyBoss)
-
+📧 **Email:** [gosecop@proton.me](mailto:gosecop@proton.me)
 📧 **Email:** gosecop@proton.me
 
 ---
