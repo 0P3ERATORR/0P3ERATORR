@@ -57,5 +57,5 @@ The infrastructure behind my project work — VM setup, isolated lab networking,
 
 Open to networking, feedback, and conversations with anyone in SOC, blue team, or vulnerability management work.
 
-- 💼 **LinkedIn:** YOUR_LINKEDIN_URL_HERE
-- 📧 **Email:** YOUR_EMAIL_HERE
+- 💼 **LinkedIn:** www.linkedin.com/in/gloryola
+- 📧 **Email:** gosecop@proton.me
