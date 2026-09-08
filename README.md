@@ -35,6 +35,18 @@ Junior SOC Analyst focused on hands-on security monitoring, alert investigation,
 
 ## 📂 Featured Projects
 
+## 📂 Featured Projects
+
+### 🛡️ [Wazuh SOC Detection & Investigation Lab](https://github.com/0P3ERATORR/wazuh-soc-detection-lab)
+Built an isolated SOC/SIEM environment using Wazuh and Windows 11 to monitor security telemetry, validate detections, and perform alert investigations.
+
+- Investigated Windows authentication events and correlated Event ID 4625 with Event ID 4624 to determine analyst disposition
+- Detected Windows account creation using Event ID 4720 and Wazuh Rule 60109
+- Collected and analyzed PowerShell Script Block Logging (Event ID 4104)
+- Analyzed Wazuh MITRE ATT&CK mappings including T1098, T1059.001, T1112, and T1531
+- Troubleshot Wazuh Indexer OOM failures, Filebeat connectivity, service startup issues, and SIEM indexing delays
+- Documented detection evidence, root-cause analysis, remediation, and verification
+
 ### 🔍 [Metasploitable2 Vulnerability Management Lab](https://github.com/0P3ERATORR/Metasploitable2-vulnerability-management-lab)
 Full identify → assess → remediate → verify cycle against a deliberately vulnerable host. Four Critical/High findings addressed — including a CVSS 9.8 Ghostcat (CVE-2020-1938) remediation — each with before/after evidence from independent re-scans.
 
