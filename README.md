@@ -21,15 +21,20 @@ Junior SOC Analyst focused on hands-on security monitoring, alert investigation,
 
 ---
 
+
 ## 🛠️ Tools & Skills
 
-**Vulnerability Management:** Tenable Nessus, vulnerability lifecycle (identify → assess → remediate → verify)
+**SOC / SIEM:** Wazuh · SIEM monitoring · alert triage · threat hunting · event correlation · MITRE ATT&CK
 
-**Systems:** Linux (Kali, Ubuntu/Debian-based targets), VMware Workstation, virtual networking
+**Windows Security:** Windows Event Logs · Event ID analysis · authentication monitoring · PowerShell logging · Script Block Logging · Sysmon
 
-**Blue Team Fundamentals:** Log analysis, service hardening, secure configuration, credential management
+**Vulnerability Management:** Tenable Nessus · vulnerability assessment · remediation · system hardening · verification through re-scanning
 
-**Platforms:** TryHackMe (Security Engineering, SOC L1, DevSecOps)
+**Systems & Infrastructure:** Windows 11 · Linux (Kali, Ubuntu/Debian) · VMware Workstation · virtual networking · systemd
+
+**SIEM Troubleshooting:** Wazuh Indexer · OpenSearch · Filebeat · service troubleshooting · log ingestion and indexing analysis
+
+**Platforms:** TryHackMe — SOC Level 1 · Security Engineering · DevSecOps
 
 ---
 
