@@ -38,7 +38,6 @@ Junior SOC Analyst focused on hands-on security monitoring, alert investigation,
 
 ---
 
-## 📂 Featured Projects
 
 ## 📂 Featured Projects
 
@@ -64,10 +63,12 @@ The infrastructure behind my project work — VM setup, isolated lab networking,
 
 ## 🎯 Current Goals
 
-- [x] Complete TryHackMe Security Engineering, SOC L1, and DevSecOps paths
-- [x] Build a working home lab from scratch
-- [x] Complete a full vulnerability management cycle with verified before/after evidence
-- [ ] Tackle a second target host with a different OS/service mix
+- [x] Build a working cybersecurity home lab
+- [x] Complete a full vulnerability management cycle with verified remediation evidence
+- [x] Build and document a SOC/SIEM detection and investigation lab
+- [x] Complete TryHackMe SOC Level 1
+- [ ] Build additional SOC projects focused on detection engineering and incident response
+- [ ] Continue developing Windows and Active Directory security monitoring skills
 - [ ] Earn CompTIA Security+
 - [ ] Land my first SOC Analyst role
 
