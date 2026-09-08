@@ -7,14 +7,17 @@
 
 ---
 
+
 ## 👋 About Me
 
-Junior SOC Analyst in training, focused on hands-on vulnerability management and blue team fundamentals. I'm building practical, verified security work — not just certificates — and documenting everything along the way.
+Junior SOC Analyst focused on hands-on security monitoring, alert investigation, and vulnerability management. I build practical cybersecurity labs to develop and demonstrate real analyst skills — from collecting and analyzing security telemetry to investigating alerts, correlating events, remediating vulnerabilities, and verifying results.
 
-- 🎯 **Currently:** Building and documenting hands-on vulnerability management projects
-- 📚 **Background:** TryHackMe — Security Engineering, SOC Level 1, DevSecOps paths
-- 🏆 **Goal:** Land my first SOC Analyst role
-- 🌱 **Approach:** Real infrastructure, real findings, real fixes — verified, not assumed
+- 🎯 **Currently:** Building SOC detection and investigation projects using Wazuh, Windows Security telemetry, Sysmon, and PowerShell logging
+- 🔎 **SOC Skills:** SIEM monitoring, alert triage, Windows event analysis, event correlation, MITRE ATT&CK, and incident investigation
+- 🛡️ **Vulnerability Management:** Vulnerability assessment, remediation, hardening, and verification through independent re-scanning
+- 📚 **Training:** TryHackMe SOC Level 1 and additional cybersecurity learning paths
+- 🧪 **Approach:** Build it, test it, investigate it, fix it, verify it, and document the evidence
+- 🎯 **Goal:** Land my first SOC Analyst role
 
 ---
 
