@@ -17,7 +17,7 @@ My completed projects span SIEM monitoring and troubleshooting, Windows and Acti
 
 I place emphasis on understanding **why** something happened rather than simply producing an alert. That includes tracing events from source to SIEM, analyzing detection logic, troubleshooting failed detections, validating remediation, and documenting limitations when a test does not produce the expected result.
 
-### 🔎 Core Capabilities
+### Core Capabilities
 
 - **Security Operations:** SIEM monitoring · alert triage · log analysis · incident investigation · event correlation
 - **Security Monitoring & Detection:** Windows telemetry · authentication monitoring · detection validation · MITRE ATT&CK
@@ -32,7 +32,7 @@ I place emphasis on understanding **why** something happened rather than simply 
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## Technical Skills & Tools
 
 ### 🛡️ SOC & Security Monitoring
 Wazuh · SIEM monitoring · alert triage · log analysis · event correlation · incident investigation · MITRE ATT&CK
