@@ -55,9 +55,6 @@ Windows Server · Windows 11 · Kali Linux · Ubuntu/Debian · VMware Workstatio
 ### 🔧 SIEM Troubleshooting
 Wazuh Manager · Wazuh Indexer · OpenSearch · Filebeat · agent enrollment · log ingestion · service troubleshooting · indexing analysis
 
-### 📚 Training
-TryHackMe SOC Level 1 · hands-on cybersecurity labs · independent security projects
-
 ---
 
 # 🔬 Security Projects & Investigations
