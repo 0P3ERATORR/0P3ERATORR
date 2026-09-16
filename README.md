@@ -227,6 +227,7 @@ Develop stronger Linux defensive-security skills through system hardening, audit
 
 - [ ] 🎣 Phishing Investigation
 - [ ] 🕵️ Threat Hunting
+- [ ]    Honeypot/Honeynet
 - [ ] 🐍 SOC Automation with Python
 - [ ] 🔐 Secure Communications & PKI Security
 - [ ] 🐧 Linux Hardening & Security Monitoring
