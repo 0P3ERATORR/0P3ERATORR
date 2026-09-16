@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Junior SOC Analyst focused on identifying, investigating, and responding to security threats through hands-on security operations and continuous technical development.
 
@@ -28,38 +28,38 @@ I place emphasis on understanding **why** something happened rather than simply 
 
 > **My approach:** Build → Test → Detect → Investigate → Remediate → Verify → Document
 
-🎯 **Career Goal:** Contribute to a Security Operations team while continuing to develop deeper expertise in detection, investigation, threat hunting, and identity security.
+**Career Goal:** Contribute to a Security Operations team while continuing to develop deeper expertise in detection, investigation, threat hunting, and identity security.
 
 ---
 
 ## Technical Skills & Tools
 
-### 🛡️ SOC & Security Monitoring
+### SOC & Security Monitoring
 Wazuh · SIEM monitoring · alert triage · log analysis · event correlation · incident investigation · MITRE ATT&CK
 
-### 🏢 Active Directory & Identity
+### Active Directory & Identity
 Active Directory Domain Services · domain administration · users and security groups · domain-joined endpoints · authentication monitoring · privileged-group monitoring · DNS
 
-### 🖥️ Windows Security
+### Windows Security
 Windows Security Event Logs · Event ID analysis · Sysmon · PowerShell logging · Script Block Logging · process creation auditing · authentication auditing
 
-### ⚙️ Detection & Analysis
+### Detection & Analysis
 Wazuh rule analysis · correlation logic · detection validation · security telemetry analysis · root-cause investigation
 
-### 🔍 Vulnerability Management
+### Vulnerability Management
 Tenable Nessus · CVSS · vulnerability assessment · risk prioritization · remediation · system hardening · re-scan validation
 
-### 🐧 Systems & Infrastructure
+### Systems & Infrastructure
 Windows Server · Windows 11 · Kali Linux · Ubuntu/Debian · VMware Workstation · virtual networking · systemd
 
-### 🔧 SIEM Troubleshooting
+### SIEM Troubleshooting
 Wazuh Manager · Wazuh Indexer · OpenSearch · Filebeat · agent enrollment · log ingestion · service troubleshooting · indexing analysis
 
 ---
 
-# 🔬 Security Projects & Investigations
+# Security Projects & Investigations
 
-## 🏢 [Active Directory & Wazuh SOC Monitoring Lab](https://github.com/0P3ERATORR/active-directory-wazuh-soc-lab)
+## [Active Directory & Wazuh SOC Monitoring Lab](https://github.com/0P3ERATORR/active-directory-wazuh-soc-lab)
 
 Built an Active Directory security monitoring environment integrating a Windows Server domain controller, domain-joined Windows workstation, Windows Security auditing, and Wazuh SIEM.
 
@@ -88,7 +88,7 @@ The project focused on collecting identity and endpoint telemetry, investigating
 
 ---
 
-## 🛡️ [Wazuh SOC Detection & Investigation Lab](https://github.com/0P3ERATORR/wazuh-soc-detection-lab)
+## [Wazuh SOC Detection & Investigation Lab](https://github.com/0P3ERATORR/wazuh-soc-detection-lab)
 
 Built an isolated SOC/SIEM environment using Wazuh and Windows to collect security telemetry, validate detections, investigate alerts, and troubleshoot failures across the SIEM pipeline.
 
@@ -108,7 +108,7 @@ Built an isolated SOC/SIEM environment using Wazuh and Windows to collect securi
 
 ---
 
-## 🔍 [Metasploitable2 Vulnerability Management Lab](https://github.com/0P3ERATORR/Metasploitable2-vulnerability-management-lab)
+## [Metasploitable2 Vulnerability Management Lab](https://github.com/0P3ERATORR/Metasploitable2-vulnerability-management-lab)
 
 Performed a complete vulnerability-management lifecycle against a deliberately vulnerable Linux system.
 
@@ -135,7 +135,7 @@ Four Critical/High findings were addressed, including remediation of the **CVSS 
 
 ---
 
-## 🖥️ [Cybersecurity Home Lab](https://github.com/0P3ERATORR/Cybersecurity-home-lab)
+## [Cybersecurity Home Lab](https://github.com/0P3ERATORR/Cybersecurity-home-lab)
 
 Built and maintained the virtualized infrastructure used to support my cybersecurity projects.
 
@@ -160,11 +160,11 @@ The lab has also provided practical experience troubleshooting memory constraint
 
 ---
 
-# 🗺️ Security Project Roadmap
+# Security Project Roadmap
 
 My next projects are designed to broaden my exposure to common SOC workflows while building on the investigation and monitoring skills demonstrated in my completed labs.
 
-## 🎣 Phishing Investigation
+## Phishing Investigation
 
 **Focus:**  
 Email header analysis · sender investigation · IOC extraction · URL/domain analysis · threat intelligence enrichment · analyst disposition · incident reporting
@@ -174,7 +174,7 @@ Develop a documented end-to-end workflow for investigating suspicious email acti
 
 ---
 
-## 🕵️ Threat Hunting
+## Threat Hunting
 
 **Focus:**  
 Hypothesis-driven hunting · Windows telemetry · authentication activity · MITRE ATT&CK · investigative queries · detection gaps
@@ -184,7 +184,7 @@ Move beyond alert-driven investigation by developing hypotheses and proactively 
 
 ---
 
-## 🐍 SOC Automation with Python
+## SOC Automation with Python
 
 **Focus:**  
 Python · APIs · IOC enrichment · log parsing · automation · security workflows
@@ -194,7 +194,7 @@ Automate repetitive analyst tasks such as IOC processing, enrichment, log parsin
 
 ---
 
-## 🔐 Secure Communications & PKI Security
+## Secure Communications & PKI Security
 
 **Focus:**  
 PKI · TLS · digital certificates · certificate chains · OpenSSL · certificate validation · secure communications
@@ -204,7 +204,7 @@ Develop practical knowledge of how certificates, trust chains, encryption, and s
 
 ---
 
-## 🐧 Linux Hardening & Security Monitoring
+## Linux Hardening & Security Monitoring
 
 **Focus:**  
 Linux authentication · permissions · auditd · system hardening · log analysis · security monitoring
@@ -214,7 +214,7 @@ Develop stronger Linux defensive-security skills through system hardening, audit
 
 ---
 
-# 📈 Project Progress
+# Project Progress
 
 ### ✅ Completed
 
@@ -233,7 +233,7 @@ Develop stronger Linux defensive-security skills through system hardening, audit
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Continue developing practical SOC investigation experience
 - Build an end-to-end phishing investigation workflow
@@ -248,7 +248,7 @@ Develop stronger Linux defensive-security skills through system hardening, audit
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to networking, feedback, collaboration, and entry-level opportunities in **SOC, blue team, security operations, and security engineering**.
 
